@@ -51,7 +51,6 @@ namespace Ventas.Infraestructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
             modelBuilder.ApplyConfiguration(new AlmacenConfigurations());
             modelBuilder.ApplyConfiguration(new ArticuloSConfigurations());
             modelBuilder.ApplyConfiguration(new CategoriaConfigurations());
@@ -71,10 +70,9 @@ namespace Ventas.Infraestructure.Data
             modelBuilder.ApplyConfiguration(new TrabajadorConfigurations());
             modelBuilder.ApplyConfiguration(new VendedoresConfigurations());
             modelBuilder.ApplyConfiguration(new VentaConfiguration());
-
-            //OnModelCreatingPartial(modelBuilder);
+            OnModelCreatingPartial(modelBuilder);
         }
 
-     //   partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\bin\Debug\netcoreapp3.1\Ventas.Core.deps.json
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\bin\Debug\netcoreapp3.1\Ventas.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\bin\Debug\netcoreapp3.1\Ventas.Core.pdb
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.AssemblyInfoInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.AssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.pdb
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Core\obj\Debug\netcoreapp3.1\Ventas.Core.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Infraestructure.deps.json
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Infraestructure.runtimeconfig.json
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Infraestructure.runtimeconfig.dev.json
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Infraestructure.dll
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Infraestructure.pdb
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\bin\Debug\netcoreapp3.1\Ventas.Core.pdb
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.AssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.csproj.CopyComplete
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.dll
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.pdb
+C:\Users\Anyelo Vinzen\source\repos\Ventas.ApiRest\Ventas.Infraestructure\obj\Debug\netcoreapp3.1\Ventas.Infraestructure.genruntimeconfig.cache
